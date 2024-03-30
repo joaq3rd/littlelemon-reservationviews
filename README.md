@@ -2,7 +2,7 @@
 
 Welcome to the **Little Lemon Restaurant Reservation App Concept**! 
 This project was initiated as part of [Meta's Coursera course titled "Create the User Interface with SwiftUI]([url](https://www.coursera.org/learn/create-the-user-interface-with-swiftui))," which is Course 5 of 12 in the Meta iOS Developer Specialization. 
-Whether you're a student, a UI enthusiast, or simply curious, this concept app provides a glimpse into the seamless reservation process for our delightful restaurant.
+Whether you're a student, a UI enthusiast, or simply curious, this concept app provides a glimpse into the seamless reservation process for a restaurant.
 
 **Project Setup:**
 
